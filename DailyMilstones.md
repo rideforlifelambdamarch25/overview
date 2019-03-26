@@ -34,7 +34,7 @@
 
 You will use your skills to be responsible for the Front End Architecture of this project. You will work directly with the UI Developer and the Back End Developer to ensure that all React components are wired up in proper fashion.
 
-#### Use [this rubric](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0) to help guide your development processes
+#### Use [this rubric](https://docs.google.com/spreadsheets/d/1dL5UfyiHJ2qxWWfot-FTOeU3KUvZaixAKvkJ0uLuhL8/edit#gid=0) to help guide your development processes
 
 ---
 
