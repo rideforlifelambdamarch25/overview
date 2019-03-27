@@ -26,7 +26,7 @@ SAFE serves mothers in Uganda to improve maternal and child survival. One of the
 
 - Darrena Gray
 
-### Backend API hosted at [https://rideforlife.herokuapp.com/](https://rideforlife.herokuapp.com/)
+### Backend API hosted at [https://rideforlifemarch25.herokuapp.com/](https://rideforlifemarch25.herokuapp.com/)
 
 - API Readme [github link](https://github.com/rideforlifelambdamarch25/ride-for-life-backend/blob/master/README.md)
 
